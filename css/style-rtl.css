@@ -3007,7 +3007,7 @@ label.checkbox {
 
 @media (min-width: 992px) {
 	.menu-link {
-		padding: 39px 12px !important;
+		padding-left: 12px !important;
 	}
 }
 
