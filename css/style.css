@@ -17008,3 +17008,23 @@ label.checkbox { padding-left: 20px; }
 		height: 60px !important;
 	}
 }
+
+.facebook {
+	display: block;
+    z-index: 599;
+    position: fixed;
+    width: 40px;
+    height: 40px;
+    background-color: #333;
+    background-color: rgba(0, 0, 0, 0.3);
+    font-size: 1.25rem;
+    line-height: 36px;
+    text-align: center;
+    color: #fff;
+    top: auto;
+    left: auto;
+    right: 30px;
+    bottom: 85px;
+    cursor: pointer;
+    margin: 0;
+}
